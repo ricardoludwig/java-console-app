@@ -4,13 +4,12 @@ Repositório template para aplicação de console com Kotlin.
 
 ## Requirements
 
-- Maven 3.6
+- Maven 3.9
 - Java 21
-- Kotlin
 
 ## Documentação
 
-not implemented
+- n/a
 
 ## Uso
 
@@ -18,7 +17,7 @@ not implemented
 
 ``mvn package``
 
-``java -jar kotlin-console-app-0.0.1-SNAPSHOT-with-dependencies.jar``
+``java -jar target/*.jar``
 
 ### Tests
 
